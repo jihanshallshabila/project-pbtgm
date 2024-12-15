@@ -1,0 +1,3 @@
+# Button untuk memesan tiket
+book_button = tk.Button(root, text="Pesan Tiket", font=("Arial", 14), command=show_ticket_info)
+book_button.pack(pady=20)

@@ -1,0 +1,2 @@
+# Jalankan aplikasi
+root.mainloop()
